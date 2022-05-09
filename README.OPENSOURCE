@@ -1,0 +1,10 @@
+[
+    {
+        "Name": " StickyListHeaders",
+        "License": " Apache License, Version 2.0 ",
+        "License File": " License ",
+        "Version Number": " 2.7 ",
+        "Upstream URL": " https://github.com/emilsjolander/StickyListHeaders ",
+        "Description": " A library for section headers that stick to the top. "
+    }
+]

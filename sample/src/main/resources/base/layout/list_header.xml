@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StackLayout
+        xmlns:ohos="http://schemas.huawei.com/res/ohos"
+        ohos:width="match_parent"
+        ohos:height="match_parent">
+
+        <Text
+              ohos:id="$+id:item_name"
+              ohos:width="match_parent"
+              ohos:height="400vp"
+              ohos:text="StickyListHeaders"
+              ohos:layout_alignment="center"
+              ohos:text_alignment="center"/>
+
+</StackLayout>
